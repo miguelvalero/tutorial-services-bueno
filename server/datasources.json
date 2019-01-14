@@ -1,0 +1,1 @@
+{"db":{"name":"db","connector":"memory"},"dbpersonas":{"host":"localhost","port":0,"url":"","database":"datos_tutorial_herramientas_classpip","password":"mimara","name":"dbpersonas","user":"root","connector":"mysql"}}

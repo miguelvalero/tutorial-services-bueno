@@ -1,0 +1,1 @@
+{"name":"persona","base":"PersistedModel","idInjection":false,"options":{"validateUpsert":true},"properties":{"nombre":{"type":"string","id":true},"pass":{"type":"string","required":true},"rol":{"type":"string","required":true},"puntos":{"type":"number","required":true}},"validations":[],"relations":{},"acls":[],"methods":{}}
