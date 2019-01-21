@@ -1,0 +1,19 @@
+{
+  "ids": {
+    "equipo": 4,
+    "persona": 5
+  },
+  "models": {
+    "equipo": {
+      "1": "{\"nombre\":\"tigres\",\"capitan\":\"pendiente\",\"id\":1}",
+      "2": "{\"nombre\":\"leones\",\"capitan\":\"pendiente\",\"id\":2}",
+      "3": "{\"nombre\":\"jirafas\",\"capitan\":\"pendiente\",\"id\":3}"
+    },
+    "persona": {
+      "Juan": "{\"nombre\":\"Juan\",\"pass\":\"jjj\",\"rol\":\"alumno\",\"puntos\":0,\"idEquipo\":1}",
+      "Pedro": "{\"nombre\":\"Pedro\",\"pass\":\"ppp\",\"rol\":\"alumno\",\"puntos\":10,\"idEquipo\":1}",
+      "Maria": "{\"nombre\":\"Maria\",\"pass\":\"mmm\",\"rol\":\"alumno\",\"puntos\":1,\"idEquipo\":2}",
+      "Miguel": "{\"nombre\":\"Miguel\",\"pass\":\"mmm\",\"rol\":\"profesor\",\"puntos\":0,\"idEquipo\":0}"
+    }
+  }
+}
