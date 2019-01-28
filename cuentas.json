@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "cuenta": 3
+  },
+  "models": {
+    "cuenta": {
+      "1": "{\"rol\":\"Profesor\",\"username\":\"Miguel\",\"password\":\"$2a$10$IVIYnw1yLL0EkJpPQcueneiDgwAmUB6dLNC8sk4orJngOi8K1ww4G\",\"id\":1}",
+      "2": "{\"rol\":\"Alumno\",\"username\":\"Carlos\",\"password\":\"$2a$10$Gf6/7GG4x5PPMDn2siljZODZqLVHsqHorUnCAgbPoQp4pNH3NwAu.\",\"id\":2}"
+    }
+  }
+}

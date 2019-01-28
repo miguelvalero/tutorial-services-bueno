@@ -1,0 +1,1 @@
+{"name":"cuenta","plural":"cuentas","base":"User","idInjection":true,"options":{"validateUpsert":true},"properties":{"rol":{"type":"string","required":true}},"validations":[],"relations":{},"acls":[],"methods":{}}
