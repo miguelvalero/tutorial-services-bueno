@@ -1,7 +1,9 @@
 {
   "ids": {
     "equipo": 4,
-    "persona": 5
+    "persona": 5,
+    "asignatura": 4,
+    "matricula": 2
   },
   "models": {
     "equipo": {
@@ -10,10 +12,29 @@
       "3": "{\"nombre\":\"jirafas\",\"capitan\":\"pendiente\",\"id\":3}"
     },
     "persona": {
-      "Juan": "{\"nombre\":\"Juan\",\"pass\":\"jjj\",\"rol\":\"alumno\",\"puntos\":0,\"idEquipo\":1}",
+      "Carlos": "{\"nombre\":\"Carlos\",\"pass\":\"ccc\",\"rol\":\"alumno\",\"puntos\":1,\"idEquipo\":0}",
+      "Lucas": "{\"nombre\":\"Lucas\",\"pass\":\"lll\",\"rol\":\"alumno\",\"puntos\":0,\"idEquipo\":0}",
+      "Roberto": "{\"nombre\":\"Roberto\",\"pass\":\"rrr\",\"rol\":\"alumno\",\"puntos\":0,\"idEquipo\":0}",
+      "Juan": "{\"nombre\":\"Juan\",\"pass\":\"jjj\",\"rol\":\"alumno\",\"puntos\":1,\"idEquipo\":1}",
       "Pedro": "{\"nombre\":\"Pedro\",\"pass\":\"ppp\",\"rol\":\"alumno\",\"puntos\":10,\"idEquipo\":1}",
       "Maria": "{\"nombre\":\"Maria\",\"pass\":\"mmm\",\"rol\":\"alumno\",\"puntos\":1,\"idEquipo\":2}",
       "Miguel": "{\"nombre\":\"Miguel\",\"pass\":\"mmm\",\"rol\":\"profesor\",\"puntos\":0,\"idEquipo\":0}"
+    },
+    "asignatura": {
+      "1": "{\"nombre\":\"Matematicas\",\"creditos\":6,\"id\":1}",
+      "2": "{\"nombre\":\"Fisica\",\"creditos\":6,\"id\":2}",
+      "3": "{\"nombre\":\"Informatica\",\"creditos\":6,\"id\":3}"
+    },
+    "matricula": {
+      "1": "{\"nota\":5,\"idAlumno\":\"Carlos\",\"idAsignatura\":1,\"id\":1}",
+      "2": "{\"nota\":8,\"idAlumno\":\"Carlos\",\"idAsignatura\":2,\"id\":2}",
+      "3": "{\"nota\":7,\"idAlumno\":\"Juan\",\"idAsignatura\":2,\"id\":3}",
+      "4": "{\"nota\":9,\"idAlumno\":\"Juan\",\"idAsignatura\":3,\"id\":4}",
+      "5": "{\"nota\":10,\"idAlumno\":\"Lucas\",\"idAsignatura\":1,\"id\":5}",
+      "6": "{\"nota\":10,\"idAlumno\":\"Lucas\",\"idAsignatura\":3,\"id\":6}",
+      "7": "{\"nota\":10,\"idAlumno\":\"Maria\",\"idAsignatura\":1,\"id\":7}",
+      "8": "{\"nota\":8,\"idAlumno\":\"Pedro\",\"idAsignatura\":2,\"id\":8}",
+      "9": "{\"nota\":7,\"idAlumno\":\"Roberto\",\"idAsignatura\":3,\"id\":9}"
     }
   }
 }
