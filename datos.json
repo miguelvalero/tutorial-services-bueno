@@ -1,6 +1,6 @@
 {
   "ids": {
-    "equipo": 4,
+    "equipo": 5,
     "persona": 5,
     "asignatura": 4,
     "matricula": 2
@@ -9,7 +9,8 @@
     "equipo": {
       "1": "{\"nombre\":\"tigres\",\"capitan\":\"pendiente\",\"id\":1}",
       "2": "{\"nombre\":\"leones\",\"capitan\":\"pendiente\",\"id\":2}",
-      "3": "{\"nombre\":\"jirafas\",\"capitan\":\"pendiente\",\"id\":3}"
+      "3": "{\"nombre\":\"jirafas\",\"capitan\":\"pendiente\",\"id\":3}",
+      "4": "{\"nombre\":\"Toros\",\"capitan\":\"pendiente\",\"logo\":\"bull.png\",\"id\":4}"
     },
     "persona": {
       "Carlos": "{\"nombre\":\"Carlos\",\"pass\":\"ccc\",\"rol\":\"alumno\",\"puntos\":1,\"idEquipo\":0}",

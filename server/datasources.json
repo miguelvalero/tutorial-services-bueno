@@ -1,1 +1,2 @@
-{"db":{"name":"db","connector":"memory"},"dbpersonas":{"host":"localhost","port":0,"url":"","database":"datos_tutorial_herramientas_classpip","password":"mimara","name":"dbpersonas","user":"root","connector":"mysql"},"dbfichero":{"name":"dbfichero","localStorage":"","file":"datos.json","connector":"memory"}}
+{"db":{"name":"db","connector":"memory"},"dbpersonas":{"host":"localhost","port":0,"url":"","database":"datos_tutorial_herramientas_classpip","password":"mimara","name":"dbpersonas","user":"root","connector":"mysql"},"dbfichero":{"name":"dbfichero","localStorage":"","file":"datos.json","connector":"memory"},
+"imagenes":{"name":"imagenes","connector":"loopback-component-storage" , "provider":"filesystem","root":"./server/ficheros"}}
